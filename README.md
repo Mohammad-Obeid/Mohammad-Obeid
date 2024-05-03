@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Obeid</h1>
 <h3 align="center">A Computer science student in BZU</h3>
-<img align="right" alt="Coding" width="400" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytSAicOoykWDqCyLlaV59ePOcNyCcIqzyembhM4u6Jw&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammad-obeid&label=Profile%20views&color=0e75b6&style=flat" alt="mohammad-obeid" /> </p>
 
